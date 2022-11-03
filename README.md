@@ -40,6 +40,10 @@ If you use our code or data in your work, please cite our research paper:
 * rosrun ORTILo yolo_position_estimator.py
 * Use the "/lqi/command/single_pose" and "move_base_simple/goal" topics to command the quadrotor.
 
+A demonstration of one full test is provided here
+
+https://user-images.githubusercontent.com/92587570/199694484-6ac230ff-ac77-418e-b470-1c84694d418e.mp4
+
 
 #
 
